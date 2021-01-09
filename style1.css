@@ -1,0 +1,12 @@
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    border: 2px solid #000000;
+    border-radius: 50px;
+    text-align: center;
+}
+body{
+    background-color: teal;
+}
+
